@@ -1,0 +1,20 @@
+body
+{
+   background-image: url("images/background.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center
+}
+
+.footer
+{
+    border-top: 1px solid black;
+    color:#eeeeee;
+    background-color: #211f22;
+    text-align: center;
+}
+.goal
+{
+   color:#001f51;
+   font-size: 20px;
+}
